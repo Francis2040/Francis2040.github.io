@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Tus estilos personalizados van aquí */
+header.site-header {
+  background-color: #003366;
+}
+
+/* Personalizar el color de los enlaces */
+a {
+  color: #0066cc;
+}
