@@ -5,7 +5,7 @@ plugins:
 
 # --- Configuración básica ---
 title: "Francis Anahole"
-description: "QA Engineer — QA: donde los errores se convierten en mejoras"
+description: "QA Engineer — Transformando errores en mejoras valiosas para tu software"
 url: "https://francis2040.github.io"
 
 # --- Opciones del tema ---
@@ -16,3 +16,7 @@ author:
   name: "Francis Anahole"
   avatar: "assets/images/avatar.png"  # ajusta según tu ruta real
   bio: "QA Engineer — Pruebas Manuales"
+  linkedin: "https://www.linkedin.com/in/francis-anahole/"
+  github: "https://github.com/Francis2040"
+  email: "anaholef@gmail.com"
+  cv: "assets/files/CV.pdf"
