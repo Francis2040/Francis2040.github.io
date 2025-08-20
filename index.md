@@ -2,9 +2,8 @@
 layout: default
 title: "Inicio"
 ---
-
 <p align="center">
-  <img src="assets/images/avatar.png" alt="Francis Anahole" width="180px" style="border-radius:50%">
+  <img src="avatar.png" alt="Francis Anahole" width="180px" style="border-radius:50%">
 </p>
 
 <h1 align="center">Francis Anahole</h1>
