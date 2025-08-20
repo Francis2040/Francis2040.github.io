@@ -66,7 +66,7 @@ Aseguramos que cada paso de la solicitud de taxi funcione de manera confiable, d
 - Implementación de estructura modular con POM para máxima eficiencia.  
 - Configuración de datos de prueba y validación de flujos end-to-end, garantizando calidad y fiabilidad.
 
-  [![Urban Routes](assets/images/Captura de pantalla 2025-08-18 133513.png
+  ![Urban Routes](./Captura_Urban_routes.png)
 
   **Repositorio:** [Automatización completa del flujo de taxi](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
   
@@ -86,6 +86,7 @@ Optimización de la gestión de tarjetas en la aplicación Around para agilizar 
 - Diseño e implementación de la automatización completa de flujos dinámicos.  
 - Estructuración del proyecto bajo POM para fácil mantenimiento y escalabilidad.  
 - Validación de la experiencia de usuario y aseguramiento de calidad constante.
+![Avatar](./Captura_Avatar.png)
 
 ### Urban Grocers API: Validación de campos en la API
 
@@ -102,6 +103,8 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 - Diseño y ejecución de pruebas automatizadas para asegurar datos consistentes.  
 - Implementación de autenticación con token y gestión eficiente de la API.  
 - Organización de archivos y buenas prácticas para un flujo de trabajo óptimo.
+
+  ![Urban Grocers API](./Captura_urban_grocers.png)
 
 **Repositorio:** [Automatización de pruebas Urban Grocers](https://github.com/Francis2040/Automatizacion-de-pruebas-para-validacion-de-campos-en-la-aplicacion-Urban-Grocers)
 
