@@ -5,14 +5,29 @@ title: "Inicio"
 
 # Hola, soy Francis Anahole
 **QA Engineer** — *Transformando errores en mejoras valiosas para tu software*
+Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
 
-- LinkedIn: [linkedin.com/in/francis-anahole](https://www.linkedin.com/in/francis-anahole)
-- Email: [anaholef@gmail.com](mailto:anaholef@gmail.com)
-- Herramientas: Selenium · Jira · Postman · Python
+<p align="center">
+  <a href="https://www.linkedin.com/in/francis-anahole/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Francis2040">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:anaholef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1KdWM7GDKW3WIpNjrB0evANzvv2nJyfM6loEG8tImsXI/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  </a>
+</p>
 
 ## 👩‍💻 Sobre mí
 
-Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
+Hace un tiempo, buscaba un cambio profesional que realmente me motivara, pero sentía cierta aversión a la tecnología porque ni siquiera sabía cómo actualizar una computadora. 🥲 Hasta que, un día, escuché la frase: “Si eres detallista y organizado, puedes trabajar en QA sin experiencia previa”. Esta idea despertó mi curiosidad, y comencé a investigar.
+Lo tomé como un reto personal: aprender algo que nunca había considerado. Lo que comenzó como un experimento, se convirtió en pasión: asegurar la calidad del software y contribuir a que las aplicaciones funcionen correctamente para las personas. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Hoy sigo creciendo cada día, convencida de que los cambios más valiosos nacen cuando salimos de nuestra zona de confort.
+Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
+Creo firmemente que lo que parecía un reto imposible se ha convertido en mi propósito: asegurar que el software funcione para la gente, con pasión y dedicación. Estoy abierto a colaborar.
 
 ## 🛠 Habilidades Técnicas
 
