@@ -11,8 +11,6 @@ title: "Inicio"
 - Herramientas: Selenium · Jira · Postman · Python
 
 ## Proyectos destacados
-- **Urban Routes (Selenium/Python)** — tests E2E, Page Object Model, reportes.
-- **APIs con Postman** — colecciones + test scripts.
 
 [Ir a Proyectos →](/proyectos)
 
