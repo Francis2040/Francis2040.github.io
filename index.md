@@ -28,14 +28,21 @@ QA Engineer en transición desde el área administrativa. Sé diseñar y ejecuta
 - 
 ## 📂 Proyectos Destacados
 
-### Urban Routes
-Automatización completa del flujo de solicitud de taxi utilizando Selenium y Python.
+##  Urban Routes: Automatización completa del flujo de taxi
 
-### Around
-Automatización de la gestión dinámica de tarjetas en la aplicación Around.
+Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: desde elegir origen/destino hasta verificar datos del conductor.
 
-### Urban Grocers API
-Pruebas automatizadas para validar la longitud y formato de campos en la API de Urban Grocers.
+**Herramientas**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  <img src="https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Unittest"/>
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
+</p>
+
+**Mi rol**  
+- Creé y mantuve toda la suite de pruebas automatizadas.  
+- Implementé estructura modular con POM (páginas, utilidades, tests).  
+- Configuré datos de prueba y validé flujos end-to-end.
 
 ## 📬 Contacto
 
