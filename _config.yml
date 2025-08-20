@@ -1,41 +1,18 @@
-# --- Tema Minimal como remote_theme ---
+# --- Tema Minimal ---
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# --- Configuración básica del sitio ---
-<h1 align="center">Francis Anahole</h1>
-<h3 align="center">QA Engineer | Pruebas Manuales</h3>
-
-<p align="center">
-  <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
-</p>
-👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
+# --- Configuración básica ---
 title: "Francis Anahole"
 description: "QA Engineer — QA: donde los errores se convierten en mejoras"
+url: "https://francis2040.github.io"
 
-# Opcionales del tema:
+# --- Opciones del tema ---
 show_downloads: false
 google_analytics:
 
 author:
   name: "Francis Anahole"
-  avatar: "avatar.png" alt="Francis Anahole" width="200" height="200">
+  avatar: "assets/images/avatar.png"  # ajusta según tu ruta real
   bio: "QA Engineer — Pruebas Manuales"
-
-  remote_theme: yaoyao-liu/minimal-light
-avatar: ./assets/images/avatar.png
-title: "Francis Anahole"
-description: "QA Engineer — Pruebas Manuales"
-
-title: "Francis Anahole"
-description: "QA Engineer — Pruebas Manuales"
-url: "https://Francis2040.github.io"
-avatar: "/assets/images/avatar.png"
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-
-
