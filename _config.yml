@@ -17,3 +17,9 @@ description: "QA Engineer — QA: donde los errores se convierten en mejoras"
 # Opcionales del tema:
 show_downloads: false
 google_analytics:
+
+author:
+  name: "Francis Anahole"
+  avatar: "/assets/images/avatar.png"
+  bio: "QA Engineer — Pruebas Manuales"
+
