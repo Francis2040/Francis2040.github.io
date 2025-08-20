@@ -2,7 +2,6 @@
 layout: default
 title: "Inicio"
 ---
-
 # Hola, soy Francis Anahole
 **QA Engineer** — *QA: donde los errores se convierten en mejoras*
 
