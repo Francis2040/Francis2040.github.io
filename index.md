@@ -66,6 +66,10 @@ Aseguramos que cada paso de la solicitud de taxi funcione de manera confiable, d
 - Implementación de estructura modular con POM para máxima eficiencia.  
 - Configuración de datos de prueba y validación de flujos end-to-end, garantizando calidad y fiabilidad.
 
+  [![Urban Routes](assets/images/Captura de pantalla 2025-08-18 133513.png
+
+  **Repositorio:** [Automatización completa del flujo de taxi](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
+  
 ### Around: Gestión dinámica de tarjetas
 
 Optimización de la gestión de tarjetas en la aplicación Around para agilizar procesos y reducir errores.
