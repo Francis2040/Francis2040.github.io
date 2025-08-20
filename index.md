@@ -22,6 +22,10 @@ QA Engineer en transición desde el área administrativa. Sé diseñar y ejecuta
 - Consultas SQL
 - Herramientas de Gestión: JIRA, GitHub
 
+## 🛠 Habilidades Blandas
+
+- Atención al detalle | Organización y planificación | Comunicación efectiva | Pensamiento analítico y crítico | Adaptabilidad y aprendizaje rápido | Trabajo en equipo / colaboración | | | Resolución de problemas | Proactividad y autonomía
+- 
 ## 📂 Proyectos Destacados
 
 ### Urban Routes
