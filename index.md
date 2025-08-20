@@ -4,7 +4,7 @@ title: "Inicio"
 ---
 
 # Hola, soy Francis Anahole
-**QA Engineer** — *QA: donde los errores se convierten en mejoras*
+**QA Engineer** — *Transformando errores en mejoras valiosas para tu software*
 
 - LinkedIn: [linkedin.com/in/francis-anahole](https://www.linkedin.com/in/francis-anahole)
 - Email: [anaholef@gmail.com](mailto:anaholef@gmail.com)
@@ -12,25 +12,32 @@ title: "Inicio"
 
 ## 👩‍💻 Sobre mí
 
-QA Engineer en transición desde el área administrativa. Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.
+Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
 
 ## 🛠 Habilidades Técnicas
 
-- Pruebas Manuales
+- Pruebas Manuales y Automatizadas
 - Automatización con Selenium y Pytest
 - Pruebas de API con Postman
-- Consultas SQL
-- Herramientas de Gestión: JIRA, GitHub
+- Consultas SQL y validación de datos
+- Gestión de proyectos y seguimiento con JIRA y GitHub
 
 ## 🛠 Habilidades Blandas
 
- Atención al detalle| Organización y planificación| Comunicación efectiva| Pensamiento analítico y crítico| Adaptabilidad y aprendizaje rápido| Trabajo en equipo / colaboración| Resolución de problemas| Proactividad y autonomía
+- Atención al detalle
+- Organización y planificación
+- Comunicación efectiva
+- Pensamiento analítico y crítico
+- Adaptabilidad y aprendizaje rápido
+- Trabajo en equipo / colaboración
+- Resolución de problemas
+- Proactividad y autonomía
 
 ## 📂 Proyectos Destacados
 
 ### Urban Routes: Automatización completa del flujo de taxi
 
-Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: desde elegir origen/destino hasta verificar datos del conductor.
+Aseguramos que cada paso de la solicitud de taxi funcione de manera confiable, desde elegir origen y destino hasta la verificación de datos del conductor.
 
 **Herramientas**  
 
@@ -39,14 +46,14 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
 ![Unittest](https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black)  
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge)
 
-**Mi rol**  
-- Creé y mantuve toda la suite de pruebas automatizadas.  
-- Implementé estructura modular con POM (páginas, utilidades, tests).  
-- Configuré datos de prueba y validé flujos end-to-end.
+**Mi aporte**  
+- Creación y mantenimiento de la suite completa de pruebas automatizadas.  
+- Implementación de estructura modular con POM para máxima eficiencia.  
+- Configuración de datos de prueba y validación de flujos end-to-end, garantizando calidad y fiabilidad.
 
 ### Around: Gestión dinámica de tarjetas
 
-Automatización de la gestión dinámica de tarjetas en la aplicación Around.
+Optimización de la gestión de tarjetas en la aplicación Around para agilizar procesos y reducir errores.
 
 **Herramientas**  
 
@@ -56,14 +63,14 @@ Automatización de la gestión dinámica de tarjetas en la aplicación Around.
 ![Unittest](https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black)  
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge)
 
-**Mi rol**  
-- Diseñé e implementé la lógica completa de automatización para agregar y eliminar tarjetas dinámicamente.  
-- Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
-- Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario.
+**Mi aporte**  
+- Diseño e implementación de la automatización completa de flujos dinámicos.  
+- Estructuración del proyecto bajo POM para fácil mantenimiento y escalabilidad.  
+- Validación de la experiencia de usuario y aseguramiento de calidad constante.
 
 ### Urban Grocers API: Validación de campos en la API
 
-Pruebas automatizadas para validar la longitud y formato de campos en la API de Urban Grocers.
+Automatización de pruebas para asegurar que la API cumpla con los estándares de longitud y formato de datos, garantizando integridad y confiabilidad.
 
 **Herramientas**  
 
@@ -72,10 +79,10 @@ Pruebas automatizadas para validar la longitud y formato de campos en la API de 
 ![Requests](https://img.shields.io/badge/Requests-FF0000?style=for-the-badge)  
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-**Mi rol**  
-- Diseñé y ejecuté las pruebas automatizadas.  
-- Implementé un flujo de autenticación con token para interactuar con la API.  
-- Organicé el proyecto bajo buenas prácticas (archivos separados: configuración, datos, requests y tests).
+**Mi aporte**  
+- Diseño y ejecución de pruebas automatizadas para asegurar datos consistentes.  
+- Implementación de autenticación con token y gestión eficiente de la API.  
+- Organización de archivos y buenas prácticas para un flujo de trabajo óptimo.
 
 **Repositorio:** [Automatización de pruebas Urban Grocers](https://github.com/Francis2040/Automatizacion-de-pruebas-para-validacion-de-campos-en-la-aplicacion-Urban-Grocers)
 
