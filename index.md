@@ -24,20 +24,18 @@ QA Engineer en transición desde el área administrativa. Sé diseñar y ejecuta
 
 ## 🛠 Habilidades Blandas
 
-- Atención al detalle | Organización y planificación | Comunicación efectiva | Pensamiento analítico y crítico | Adaptabilidad y aprendizaje rápido | Trabajo en equipo / colaboración | | | Resolución de problemas | Proactividad y autonomía
+ Atención al detalle| Organización y planificación| Comunicación efectiva| Pensamiento analítico y crítico| Adaptabilidad y aprendizaje rápido| Trabajo en equipo / colaboración| Resolución de problemas| Proactividad y autonomía
 - 
 ## 📂 Proyectos Destacados
-
-##  Urban Routes: Automatización completa del flujo de taxi
+## Urban Routes: Automatización completa del flujo de taxi
 
 Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: desde elegir origen/destino hasta verificar datos del conductor.
 
 **Herramientas**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  <img src="https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Unittest"/>
-  <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Unittest](https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black)  
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge)
 
 **Mi rol**  
 - Creé y mantuve toda la suite de pruebas automatizadas.  
