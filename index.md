@@ -3,6 +3,17 @@ layout: default
 title: "Inicio"
 ---
 
+<p align="center">
+  <img src="assets/images/avatar.png" alt="Francis Anahole" width="180px" style="border-radius:50%">
+</p>
+
+<h1 align="center">Francis Anahole</h1>
+
+<p align="center"><strong>QA Engineer — Pruebas Manuales</strong></p>
+<p align="center"><em>QA: donde los errores se convierten en mejoras</em></p>
+
+---
+
 # Hola, soy Francis Anahole
 **QA Engineer** — *Transformando errores en mejoras valiosas para tu software*
 Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
