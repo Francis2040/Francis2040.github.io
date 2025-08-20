@@ -23,3 +23,9 @@ author:
   avatar: "avatar.png" alt="Francis Anahole" width="200" height="200">
   bio: "QA Engineer — Pruebas Manuales"
 
+  remote_theme: yaoyao-liu/minimal-light
+avatar: ./assets/images/avatar.png
+title: "Francis Anahole"
+description: "QA Engineer — Pruebas Manuales"
+
+
