@@ -6,10 +6,7 @@ permalink: /sobre-mi/
 
 # Sobre mí
 
-Soy QA Engineer con experiencia en…
----
-layout: default
----
+Soy QA Engineer con experiencia en pruebas manuales y automatizadas, y en la mejora de procesos para garantizar la calidad del software.
 
 ## Mi Historia
 
