@@ -5,6 +5,7 @@
 
 # Hola, soy Francis Anahole
 **QA Engineer** — *Transformando errores en mejoras valiosas para tu software*
+
 Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
 
 <p align="center">
