@@ -1,22 +1,7 @@
-# --- Tema Minimal ---
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# --- Configuración básica ---
-title: "Francis Anahole"
-description: "QA Engineer — Transformando errores en mejoras valiosas para tu software"
-url: "https://francis2040.github.io"
-
-# --- Opciones del tema ---
+title: Francis Anahole
+logo: assets/avatar.png
+description: ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
 show_downloads: false
-
-author:
-  name: "Francis Anahole"
-  avatar: "/assets/avatar.png"
-  bio: "QA Engineer — Pruebas Manuales"
-  linkedin: "https://www.linkedin.com/in/francis-anahole/"
-  github: "https://github.com/Francis2040"
-  email: "anaholef@gmail.com"
-  cv: "/assets/files/CV.pdf"
+#google_analytics:
+theme: jekyll-theme-minimal
 
