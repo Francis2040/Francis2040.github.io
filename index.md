@@ -76,10 +76,9 @@ WebDriver Manager – Configuración automática del driver de Chrome
 
 **Mi aporte** 
 
-Diseñé y desarrollé los scripts de prueba automatizados.
-Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
-Configuré la ejecución de tests con Pytest.
-Documenté el proyecto con instrucciones claras en este README.md.
+- Diseñé y desarrollé los scripts de prueba automatizados.
+- Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
+- Configuré la ejecución de tests con Pytest.
 
   ![Urban Routes](./Captura_Demo.png)
 
