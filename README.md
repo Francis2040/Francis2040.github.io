@@ -1,8 +1,5 @@
 
-<h1 align="center">Francis Anahole</h1>
-
 <p align="center"><strong>QA Engineer — Pruebas Manuales</strong></p>
-<p align="center"><em>QA: donde los errores se convierten en mejoras</em></p>
 
 ---
 
