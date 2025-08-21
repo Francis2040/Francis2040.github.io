@@ -5,18 +5,18 @@ plugins:
 
 # --- Configuración básica ---
 title: "Francis Anahole"
-description: "QA Engineer — Transformando errores en mejoras valiosas para tu software Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino experiencia en pruebas manuales y automatizadas con habilidades en Selenium, Pytest, SQL y Postman, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto"
+description: "QA Engineer — Transformando errores en mejoras valiosas para tu software"
 url: "https://francis2040.github.io"
 
 # --- Opciones del tema ---
 show_downloads: false
-google_analytics:
 
 author:
   name: "Francis Anahole"
-  avatar: "assets/images/avatar.png"  # ajusta según tu ruta real
+  avatar: "/assets/avatar.png"
   bio: "QA Engineer — Pruebas Manuales"
   linkedin: "https://www.linkedin.com/in/francis-anahole/"
   github: "https://github.com/Francis2040"
   email: "anaholef@gmail.com"
-  cv: "assets/files/CV.pdf"
+  cv: "/assets/files/CV.pdf"
+
