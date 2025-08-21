@@ -52,6 +52,7 @@ El inicio de sesión es una funcionalidad crítica en cualquier aplicación web:
 Este proyecto valida automáticamente el inicio de sesión exitoso en la plataforma OrangeHRM Demo, asegurando que el acceso al Dashboard funcione correctamente.
 
 🛠️ Herramientas usadas
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-5A5A5A?style=for-the-badge&logo=pytest&logoColor=white)  
@@ -65,6 +66,7 @@ Configuré la ejecución de tests con Pytest.
 Documenté el proyecto con instrucciones claras en este README.md.
 
  **Repositorio:** [Automatización de Pruebas de Login en OrangeHRM Demo](https://github.com/Francis2040/Test-de-Login-OrangeHRM-Demo)
+ 
 
 ### Urban Routes: Automatización completa del flujo de taxi
 
@@ -86,6 +88,7 @@ Aseguramos que cada paso de la solicitud de taxi funcione de manera confiable, d
 
   **Repositorio:** [Automatización completa del flujo de taxi](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
   
+  
 ### Around: Gestión dinámica de tarjetas
 
 Optimización de la gestión de tarjetas en la aplicación Around para agilizar procesos y reducir errores.
@@ -102,7 +105,10 @@ Optimización de la gestión de tarjetas en la aplicación Around para agilizar 
 - Diseño e implementación de la automatización completa de flujos dinámicos.  
 - Estructuración del proyecto bajo POM para fácil mantenimiento y escalabilidad.  
 - Validación de la experiencia de usuario y aseguramiento de calidad constante.
+  
 ![Avatar](./Captura_Avatar.png)
+
+**Repositorio:** [Gestion dinamica de tarjetas](https://github.com/Francis2040/Automatizacion-con-Selenium-para-agregar-y-eliminar-tarjetas-dinamicamente-en-la-aplicacion-Around)
 
 ### Urban Grocers API: Validación de campos en la API
 
