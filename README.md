@@ -23,11 +23,25 @@ Apasionada por garantizar que las aplicaciones funcionen a la perfección para l
   </a>
 </p>
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Hace un tiempo decidí dar un giro profesional hacia el mundo de la Calidad de Software (QA). Lo que empezó como un reto personal rápidamente se transformó en una verdadera pasión: garantizar que las aplicaciones funcionen de manera óptima y ofrezcan la mejor experiencia a los usuarios.
 
-Durante mi formación y experiencia en proyectos, he diseñado y ejecutado casos de prueba funcionales y automatizados, identificado errores críticos y contribuido a mejorar la confiabilidad de los sistemas. Un ejemplo destacado es mi participación en el proyecto Urban Routes, donde implementé pruebas automatizadas con Selenium, optimizando los flujos de solicitud de taxi y aumentando la eficiencia del proceso de validación.
+Durante mi formación y experiencia en proyectos, he diseñado y ejecutado casos de prueba funcionales y automatizados, identificado errores críticos y contribuido a mejorar la confiabilidad de los sistemas.
+
+🔹 Proyecto destacado: Urban Routes
+Implementé pruebas automatizadas con Selenium para optimizar los flujos de solicitud de taxi, lo que aumentó la eficiencia del proceso de validación y redujo tiempos en la detección de errores.
+
+🔹 Proyecto autónomo: Automatización de Login en OrangeHRM Demo
+Desarrollé un proyecto desde cero para validar la funcionalidad crítica de inicio de sesión en OrangeHRM Demo.
+
+Implementé scripts automatizados con Selenium y Pytest.
+
+Usé el patrón Page Object Model (POM) para mantener un código limpio y escalable.
+
+Integré WebDriver Manager para la configuración automática del driver de Chrome.
+
+Documenté el flujo de trabajo en el README para que otros puedan reproducir la ejecución de las pruebas.
 
 Hoy combino pruebas manuales y automatizadas con conocimientos en Selenium, Pytest, SQL y Postman, aportando análisis crítico, organización y atención al detalle.
 
