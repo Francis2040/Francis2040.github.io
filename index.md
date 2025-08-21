@@ -15,7 +15,7 @@ Apasionada por garantizar que las aplicaciones funcionen a la perfección para l
   </a>
 </p>
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Hace un tiempo decidí dar un giro profesional hacia el mundo de la Calidad de Software (QA). Lo que empezó como un reto personal rápidamente se transformó en una verdadera pasión: garantizar que las aplicaciones funcionen de manera óptima y ofrezcan la mejor experiencia a los usuarios.
 
