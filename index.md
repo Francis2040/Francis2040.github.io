@@ -34,10 +34,13 @@ Apasionada por garantizar que las aplicaciones funcionen a la perfección para l
 
 ## 👩‍💻 Sobre mí
 
-Hace un tiempo, buscaba un cambio profesional que realmente me motivara, pero sentía cierta aversión a la tecnología porque ni siquiera sabía cómo actualizar una computadora. 🥲 Hasta que, un día, escuché la frase: “Si eres detallista y organizado, puedes trabajar en QA sin experiencia previa”. Esta idea despertó mi curiosidad, y comencé a investigar.
-Lo tomé como un reto personal: aprender algo que nunca había considerado. Lo que comenzó como un experimento, se convirtió en pasión: asegurar la calidad del software y contribuir a que las aplicaciones funcionen correctamente para las personas. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Hoy sigo creciendo cada día, convencida de que los cambios más valiosos nacen cuando salimos de nuestra zona de confort.
-Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
-Creo firmemente que lo que parecía un reto imposible se ha convertido en mi propósito: asegurar que el software funcione para la gente, con pasión y dedicación. Estoy abierto a colaborar.
+Hace un tiempo decidí dar un giro profesional hacia el mundo de la Calidad de Software (QA). Lo que empezó como un reto personal rápidamente se transformó en una verdadera pasión: garantizar que las aplicaciones funcionen de manera óptima y ofrezcan la mejor experiencia a los usuarios.
+
+Durante mi formación y experiencia en proyectos, he diseñado y ejecutado casos de prueba funcionales y automatizados, identificado errores críticos y contribuido a mejorar la confiabilidad de los sistemas. Un ejemplo destacado es mi participación en el proyecto Urban Routes, donde implementé pruebas automatizadas con Selenium, optimizando los flujos de solicitud de taxi y aumentando la eficiencia del proceso de validación.
+
+Hoy combino pruebas manuales y automatizadas con conocimientos en Selenium, Pytest, SQL y Postman, aportando análisis crítico, organización y atención al detalle.
+
+Mi objetivo es seguir creciendo como QA Engineer y colaborar con equipos que busquen mejorar la calidad del software, reducir riesgos y entregar productos de alto valor a sus clientes.
 
 ## 🛠 Habilidades Técnicas
 
