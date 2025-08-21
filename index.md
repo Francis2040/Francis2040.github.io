@@ -46,6 +46,26 @@ Mi objetivo es seguir creciendo como QA Engineer y colaborar con equipos que bus
 
 ## 📂 Proyectos Destacados
 
+###  Automatización de Pruebas de Login en OrangeHRM Demo
+
+El inicio de sesión es una funcionalidad crítica en cualquier aplicación web: si falla, los usuarios no pueden acceder al sistema.
+Este proyecto valida automáticamente el inicio de sesión exitoso en la plataforma OrangeHRM Demo, asegurando que el acceso al Dashboard funcione correctamente.
+
+🛠️ Herramientas usadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-5A5A5A?style=for-the-badge&logo=pytest&logoColor=white)  
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge)
+WebDriver Manager – Configuración automática del driver de Chrome
+
+👩‍💻 Mi rol
+Diseñé y desarrollé los scripts de prueba automatizados.
+Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
+Configuré la ejecución de tests con Pytest.
+Documenté el proyecto con instrucciones claras en este README.md.
+
+ **Repositorio:** [Automatización de Pruebas de Login en OrangeHRM Demo](https://github.com/Francis2040/Test-de-Login-OrangeHRM-Demo)
+
 ### Urban Routes: Automatización completa del flujo de taxi
 
 Aseguramos que cada paso de la solicitud de taxi funcione de manera confiable, desde elegir origen y destino hasta la verificación de datos del conductor.
