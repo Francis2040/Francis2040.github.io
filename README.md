@@ -68,7 +68,7 @@ Este proyecto valida automáticamente el inicio de sesión exitoso en la platafo
 
 WebDriver Manager – Configuración automática del driver de Chrome
 
-👩‍💻 Mi rol
+**Mi aporte** 
 
 Diseñé y desarrollé los scripts de prueba automatizados.
 Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
