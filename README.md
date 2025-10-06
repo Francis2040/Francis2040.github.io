@@ -150,3 +150,46 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
   ![Urban Grocers API](./Captura_urban_grocers.png)
 
 **Repositorio:** [Automatización de pruebas Urban Grocers](https://github.com/Francis2040/Automatizacion-de-pruebas-para-validacion-de-campos-en-la-aplicacion-Urban-Grocers)
+
+#### Automatización de Pruebas E2E con Serenity BDD y Cucumber en SauceDemo
+
+**Herramientas**
+
+<section class="py-8 bg-gray-50">
+  <h2 class="text-2xl font-bold mb-6 text-center">Herramientas del Proyecto</h2>
+  <div class="flex flex-wrap justify-center gap-4">
+    <a href="https://serenity-bdd.github.io/theserenitybook/latest/" target="_blank" 
+       class="flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 transition">
+      <i class="fas fa-robot"></i> Serenity BDD
+    </a>
+    <a href="https://cucumber.io/" target="_blank" 
+       class="flex items-center gap-2 px-4 py-2 bg-purple-500 text-white rounded hover:bg-purple-600 transition">
+      <i class="fas fa-leaf"></i> Cucumber
+    </a>
+    <a href="https://maven.apache.org/" target="_blank" 
+       class="flex items-center gap-2 px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600 transition">
+      <i class="fas fa-cogs"></i> Maven
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank" 
+       class="flex items-center gap-2 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">
+      <i class="fab fa-jenkins"></i> Jenkins
+    </a>
+    <a href="https://github.com/features/actions" target="_blank" 
+       class="flex items-center gap-2 px-4 py-2 bg-indigo-500 text-white rounded hover:bg-indigo-600 transition">
+      <i class="fab fa-github"></i> GitHub Actions
+    </a>
+  </div>
+</section>
+
+**Mi aporte**
+-Diseñé e implementé pruebas E2E automatizadas usando Serenity BDD y Cucumber, siguiendo el patrón Screenplay para lograr una arquitectura más mantenible y escalable.
+
+-Configuré la gestión de dependencias y ejecución de pruebas con Maven, asegurando que los flujos de prueba fueran reproducibles en cualquier entorno.
+
+-Integré reportes automáticos y detallados con Serenity Reports para facilitar el análisis de resultados y la detección de errores.
+
+-Colaboré en la automatización de CI/CD mediante Jenkins y GitHub Actions, logrando ejecuciones de pruebas automáticas en cada commit.
+
+-Mejoré la eficiencia y confiabilidad del flujo de pruebas, optimizando pasos repetitivos y aumentando la cobertura de escenarios críticos de SauceDemo.
+
+
