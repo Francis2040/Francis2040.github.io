@@ -153,6 +153,8 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 ### Automatización de Pruebas E2E con Serenity BDD y Cucumber en SauceDemo
 
+Demuestra la implementación de pruebas de extremo a extremo (E2E) utilizando Serenity BDD y Cucumber en la aplicación de demostración SauceDemo. Se emplea el patrón Screenplay para una arquitectura de pruebas más modular y mantenible.
+
 **Herramientas**
 
 ![Serenity BDD](https://img.shields.io/badge/Serenity_BDD-00B386?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI5NiIgd2lkdGg9Ijk2IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZD0iTTY0IDBjMzUuMzEgMCA2NCAyOC42OSA2NCA2NHMtMjguNjkgNjQtNjQgNjQtNjQtMjguNjktNjQtNjQgMjguNjktNjQgNjQtNjR6bTAgMTJhNTIgNTIgMCAxIDAgMCAxMDQgNTIgNTIgMCAwIDAgMC0xMDR6Ii8+PC9zdmc+)
