@@ -50,8 +50,8 @@ Mi objetivo es seguir creciendo como QA Engineer y colaborar con equipos que bus
 ## 🛠 Habilidades Técnicas
 
 - Pruebas Manuales y Automatizadas
-- Automatización con Selenium y Pytest
-- Pruebas de API con Postman
+- Automatización con Selenium, Pytest y Serenity
+- Pruebas de API con Postman y Karate
 - Consultas SQL y validación de datos
 - Gestión de proyectos y seguimiento con JIRA y GitHub
 
