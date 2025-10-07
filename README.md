@@ -192,4 +192,6 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 -Mejoré la eficiencia y confiabilidad del flujo de pruebas, optimizando pasos repetitivos y aumentando la cobertura de escenarios críticos de SauceDemo.
 
+![Serenity Report](https://raw.githubusercontent.com/Francis2040/Francis2040.github.io/main/Captura_Serenity.png)
+
 
