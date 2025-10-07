@@ -155,8 +155,6 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 **Herramientas**
 
-## 🧰 Herramientas del Proyecto
-
 ![Serenity BDD](https://img.shields.io/badge/Serenity_BDD-00B386?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI5NiIgd2lkdGg9Ijk2IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZD0iTTY0IDBjMzUuMzEgMCA2NCAyOC42OSA2NCA2NHMtMjguNjkgNjQtNjQgNjQtNjQtMjguNjktNjQtNjQgMjguNjktNjQgNjQtNjR6bTAgMTJhNTIgNTIgMCAxIDAgMCAxMDQgNTIgNTIgMCAwIDAgMC0xMDR6Ii8+PC9zdmc+)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
