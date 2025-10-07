@@ -151,7 +151,7 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 **Repositorio:** [Automatización de pruebas Urban Grocers](https://github.com/Francis2040/Automatizacion-de-pruebas-para-validacion-de-campos-en-la-aplicacion-Urban-Grocers)
 
-#### Automatización de Pruebas E2E con Serenity BDD y Cucumber en SauceDemo
+### Automatización de Pruebas E2E con Serenity BDD y Cucumber en SauceDemo
 
 **Herramientas**
 
