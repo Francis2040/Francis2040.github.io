@@ -168,6 +168,7 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 
 **Mi aporte**
+
 -Diseñé e implementé pruebas E2E automatizadas usando Serenity BDD y Cucumber, siguiendo el patrón Screenplay para lograr una arquitectura más mantenible y escalable.
 
 -Configuré la gestión de dependencias y ejecución de pruebas con Maven, asegurando que los flujos de prueba fueran reproducibles en cualquier entorno.
@@ -180,4 +181,5 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 ![Serenity Report](https://raw.githubusercontent.com/Francis2040/Francis2040.github.io/main/Captura_Serenity.png)
 
+**Repositorio** [Automatizacion-de-Pruebas-E2E-con-Serenity-BDD-y-Cucumber-en-SauceDemo](https://github.com/Francis2040/-Automatizacion-de-Pruebas-E2E-con-Serenity-BDD-y-Cucumber-en-SauceDemo)
 
