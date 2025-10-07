@@ -155,31 +155,17 @@ Automatización de pruebas para asegurar que la API cumpla con los estándares d
 
 **Herramientas**
 
-<section class="py-8 bg-gray-50">
-  <h2 class="text-2xl font-bold mb-6 text-center">Herramientas del Proyecto</h2>
-  <div class="flex flex-wrap justify-center gap-4">
-    <a href="https://serenity-bdd.github.io/theserenitybook/latest/" target="_blank" 
-       class="flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 transition">
-      <i class="fas fa-robot"></i> Serenity BDD
-    </a>
-    <a href="https://cucumber.io/" target="_blank" 
-       class="flex items-center gap-2 px-4 py-2 bg-purple-500 text-white rounded hover:bg-purple-600 transition">
-      <i class="fas fa-leaf"></i> Cucumber
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" 
-       class="flex items-center gap-2 px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600 transition">
-      <i class="fas fa-cogs"></i> Maven
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank" 
-       class="flex items-center gap-2 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">
-      <i class="fab fa-jenkins"></i> Jenkins
-    </a>
-    <a href="https://github.com/features/actions" target="_blank" 
-       class="flex items-center gap-2 px-4 py-2 bg-indigo-500 text-white rounded hover:bg-indigo-600 transition">
-      <i class="fab fa-github"></i> GitHub Actions
-    </a>
-  </div>
-</section>
+## 🧰 Herramientas del Proyecto
+
+![Serenity BDD](https://img.shields.io/badge/Serenity_BDD-00B386?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSI5NiIgd2lkdGg9Ijk2IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZD0iTTY0IDBjMzUuMzEgMCA2NCAyOC42OSA2NCA2NHMtMjguNjkgNjQtNjQgNjQtNjQtMjguNjktNjQtNjQgMjguNjktNjQgNjQtNjR6bTAgMTJhNTIgNTIgMCAxIDAgMCAxMDQgNTIgNTIgMCAwIDAgMC0xMDR6Ii8+PC9zdmc+)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 **Mi aporte**
 -Diseñé e implementé pruebas E2E automatizadas usando Serenity BDD y Cucumber, siguiendo el patrón Screenplay para lograr una arquitectura más mantenible y escalable.
