@@ -6,7 +6,7 @@
 # Hola, soy Francis Anahole
 **QA Engineer** — *Transformando errores en mejoras valiosas para tu software*
 
-Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino **experiencia en pruebas manuales y automatizadas** con habilidades en **Selenium, Pytest, SQL y Postman**, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.
+Apasionada por asegurar que las aplicaciones brinden una experiencia óptima al usuario. Combino experiencia en pruebas manuales y automatizadas con sólidos conocimientos en Selenium, Pytest, Serenity BDD, SQL y Postman, aportando precisión, pensamiento analítico y soluciones eficientes en cada proyecto..
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
@@ -25,23 +25,20 @@ Apasionada por garantizar que las aplicaciones funcionen a la perfección para l
 
 ## Sobre mí
 
-Hace un tiempo decidí dar un giro profesional hacia el mundo de la Calidad de Software (QA). Lo que empezó como un reto personal rápidamente se transformó en una verdadera pasión: garantizar que las aplicaciones funcionen de manera óptima y ofrezcan la mejor experiencia a los usuarios.
+Hace un tiempo decidí dar un giro profesional hacia el mundo de la Calidad de Software (QA).
+Lo que comenzó como un reto personal pronto se convirtió en una verdadera pasión: asegurar que las aplicaciones funcionen correctamente y brinden una excelente experiencia al usuario.
 
-Durante mi formación y experiencia en proyectos, he diseñado y ejecutado casos de prueba funcionales y automatizados, identificado errores críticos y contribuido a mejorar la confiabilidad de los sistemas.
+A lo largo de mi formación y participación en proyectos, he diseñado y ejecutado casos de prueba funcionales y automatizados, detectado errores críticos y aportado a la mejora continua y confiabilidad de los sistemas.
 
 🔹 Proyecto destacado: Urban Routes
 Implementé pruebas automatizadas con Selenium para optimizar los flujos de solicitud de taxi, lo que aumentó la eficiencia del proceso de validación y redujo tiempos en la detección de errores.
 
-🔹 Proyecto autónomo: Automatización de Login en OrangeHRM Demo
-Desarrollé un proyecto desde cero para validar la funcionalidad crítica de inicio de sesión en OrangeHRM Demo.
-
-Implementé scripts automatizados con Selenium y Pytest.
-
-Usé el patrón Page Object Model (POM) para mantener un código limpio y escalable.
-
-Integré WebDriver Manager para la configuración automática del driver de Chrome.
-
-Documenté el flujo de trabajo en el README para que otros puedan reproducir la ejecución de las pruebas.
+🔹 Proyecto autónomo: SauceDemo – Automatización E2E con Serenity BDD y Cucumber 
+Automatización de pruebas End-to-End para la aplicación web SauceDemo utilizando Serenity BDD,
+Cucumber y Selenium
+● Desarrollo de casos de prueba que simulan flujos reales de usuario: login, selección de productos, carrito y
+checkout
+● Generación de reportes detallados de ejecución con evidencias visuales usando Serenity Reports
 
 Hoy combino pruebas manuales y automatizadas con conocimientos en Selenium, Pytest, SQL y Postman, aportando análisis crítico, organización y atención al detalle.
 
@@ -50,7 +47,7 @@ Mi objetivo es seguir creciendo como QA Engineer y colaborar con equipos que bus
 ## 🛠 Habilidades Técnicas
 
 - Pruebas Manuales y Automatizadas
-- Automatización con Selenium, Pytest y Serenity
+- Automatización Selenium, Pytest, PyCharm, Page Object Model (POM) Serenity BDD, Cucumber
 - Pruebas de API con Postman y Karate
 - Consultas SQL y validación de datos
 - Gestión de proyectos y seguimiento con JIRA y GitHub
